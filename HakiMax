@@ -1,4 +1,3 @@
-["Select Team"] = "Marine", -- Pirate/Marine
 local openshit = Instance.new("ScreenGui")
 local mainopen = Instance.new("TextButton")
 local mainopens = Instance.new("UICorner")
